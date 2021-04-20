@@ -2,7 +2,7 @@
 title: "MATH1318 Time Series Analysis - Assignment 1"
 author: "Adam Pirsl S3815427"
 output:
-  bookdown::html_document2:
+  rmarkdown::github_document:
    number_sections: true
 header-includes:
    - \usepackage{subfig}
